@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 2. 运行程序：
 ```bash
-python cengfan_map.py
+python main.py
 ```
 
 3. 按提示操作：
